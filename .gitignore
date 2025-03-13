@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore application.properties to prevent committing sensitive information
+src/main/resources/application.properties
