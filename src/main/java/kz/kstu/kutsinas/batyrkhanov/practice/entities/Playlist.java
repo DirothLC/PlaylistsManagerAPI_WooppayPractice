@@ -5,4 +5,7 @@ import java.util.List;
 public class Playlist {
     String title;
     List<Track> trackList;
+
+    public Playlist() {
+    }
 }

@@ -5,4 +5,7 @@ import java.util.List;
 public class User {
     String login;
     List<Playlist> playlists;
+
+    public User() {
+    }
 }

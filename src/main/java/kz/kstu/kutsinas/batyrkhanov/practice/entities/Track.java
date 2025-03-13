@@ -6,4 +6,7 @@ public class Track {
     String title;
     String author;
     Duration duration;
+
+    public Track() {
+    }
 }
